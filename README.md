@@ -4,6 +4,9 @@ This repository is for Saucedemo app utilizing cypress has the framework
 
 - Node.js (https://nodejs.org/)
 - npm (https://www.npmjs.com/)
+- vs code
+- internet connection
+- install browser (chrome or morzilla or safari)
 
 ## Installation
 
