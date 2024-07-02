@@ -26,3 +26,6 @@ This repository is for Saucedemo app utilizing cypress has the framework
 
 ```bash
 npx cypress open
+[to run test in non-headless mode]
+npx cypress run  
+[to run test in headless mode]
